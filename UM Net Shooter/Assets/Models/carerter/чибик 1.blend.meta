@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 9a0f452b4af2ef14196e2416a99fbf7c
+timeCreated: 1506945413
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: pp
+    100002: "\u0413\u041E\u041B\u041E\u0412\u0410"
+    100004: "\u0413\u041E\u041B\u041E\u0412\u0410_\u0426\u0415\u041D\u0422\u0420"
+    100006: "\u041D\u041E\u0413\u0410_\u041B\u0415\u0412\u0410\u042F"
+    100008: "\u041D\u041E\u0413\u0410_\u041F\u0420\u0410\u0412\u0410\u042F"
+    100010: "\u041F\u0410\u0422\u041B\u042B"
+    100012: "\u0420\u0423\u041A\u0410_\u041B\u0415\u0412\u0410\u042F"
+    100014: "\u0420\u0423\u041A\u0410_\u041B\u0415\u0412\u0410\u042F_001"
+    100016: "\u0420\u0423\u041A\u0424_\u041F\u0420\u0410\u0412\u0410\u042F"
+    100018: "\u0420\u0423\u041A\u0424_\u041F\u0420\u0410\u0412\u0410\u042F_003"
+    100020: "\u043F\u043E\u044F\u0441"
+    100022: //RootNode
+    100024: Cube
+    100026: Cube_001
+    100028: Armature
+    100030: Bone
+    100032: Bone_001
+    100034: Bone_002
+    100036: Bone_003
+    100038: Bone_004
+    100040: Bone_005
+    100042: Bone_006
+    100044: Bone_007
+    100046: Bone_008
+    100048: Bone_009
+    100050: Bone_010
+    100052: Bone_011
+    100054: Bone_012
+    100056: Bone_013
+    400000: pp
+    400002: "\u0413\u041E\u041B\u041E\u0412\u0410"
+    400004: "\u0413\u041E\u041B\u041E\u0412\u0410_\u0426\u0415\u041D\u0422\u0420"
+    400006: "\u041D\u041E\u0413\u0410_\u041B\u0415\u0412\u0410\u042F"
+    400008: "\u041D\u041E\u0413\u0410_\u041F\u0420\u0410\u0412\u0410\u042F"
+    400010: "\u041F\u0410\u0422\u041B\u042B"
+    400012: "\u0420\u0423\u041A\u0410_\u041B\u0415\u0412\u0410\u042F"
+    400014: "\u0420\u0423\u041A\u0410_\u041B\u0415\u0412\u0410\u042F_001"
+    400016: "\u0420\u0423\u041A\u0424_\u041F\u0420\u0410\u0412\u0410\u042F"
+    400018: "\u0420\u0423\u041A\u0424_\u041F\u0420\u0410\u0412\u0410\u042F_003"
+    400020: "\u043F\u043E\u044F\u0441"
+    400022: //RootNode
+    400024: Cube
+    400026: Cube_001
+    400028: Armature
+    400030: Bone
+    400032: Bone_001
+    400034: Bone_002
+    400036: Bone_003
+    400038: Bone_004
+    400040: Bone_005
+    400042: Bone_006
+    400044: Bone_007
+    400046: Bone_008
+    400048: Bone_009
+    400050: Bone_010
+    400052: Bone_011
+    400054: Bone_012
+    400056: Bone_013
+    2300000: pp
+    2300002: "\u0413\u041E\u041B\u041E\u0412\u0410"
+    2300004: "\u0413\u041E\u041B\u041E\u0412\u0410_\u0426\u0415\u041D\u0422\u0420"
+    2300006: "\u041D\u041E\u0413\u0410_\u041B\u0415\u0412\u0410\u042F"
+    2300008: "\u041D\u041E\u0413\u0410_\u041F\u0420\u0410\u0412\u0410\u042F"
+    2300010: "\u041F\u0410\u0422\u041B\u042B"
+    2300012: "\u0420\u0423\u041A\u0410_\u041B\u0415\u0412\u0410\u042F"
+    2300014: "\u0420\u0423\u041A\u0410_\u041B\u0415\u0412\u0410\u042F_001"
+    2300016: "\u0420\u0423\u041A\u0424_\u041F\u0420\u0410\u0412\u0410\u042F"
+    2300018: "\u0420\u0423\u041A\u0424_\u041F\u0420\u0410\u0412\u0410\u042F_003"
+    2300020: "\u043F\u043E\u044F\u0441"
+    2300022: //RootNode
+    2300024: Cube
+    2300026: Cube_001
+    3300000: pp
+    3300002: "\u0413\u041E\u041B\u041E\u0412\u0410"
+    3300004: "\u0413\u041E\u041B\u041E\u0412\u0410_\u0426\u0415\u041D\u0422\u0420"
+    3300006: "\u041D\u041E\u0413\u0410_\u041B\u0415\u0412\u0410\u042F"
+    3300008: "\u041D\u041E\u0413\u0410_\u041F\u0420\u0410\u0412\u0410\u042F"
+    3300010: "\u041F\u0410\u0422\u041B\u042B"
+    3300012: "\u0420\u0423\u041A\u0410_\u041B\u0415\u0412\u0410\u042F"
+    3300014: "\u0420\u0423\u041A\u0410_\u041B\u0415\u0412\u0410\u042F_001"
+    3300016: "\u0420\u0423\u041A\u0424_\u041F\u0420\u0410\u0412\u0410\u042F"
+    3300018: "\u0420\u0423\u041A\u0424_\u041F\u0420\u0410\u0412\u0410\u042F_003"
+    3300020: "\u043F\u043E\u044F\u0441"
+    3300022: //RootNode
+    3300024: Cube
+    3300026: Cube_001
+    4300000: "\u0422\u0415\u041B\u041E"
+    4300002: pp
+    4300004: "\u043F\u043E\u044F\u0441"
+    4300006: "\u0420\u0423\u041A\u0410_\u041B\u0415\u0412\u0410\u042F"
+    4300008: "\u0420\u0423\u041A\u0410_\u041B\u0415\u0412\u0410\u042F_001"
+    4300010: "\u0413\u041E\u041B\u041E\u0412\u0410_\u0426\u0415\u041D\u0422\u0420"
+    4300012: "\u0413\u041E\u041B\u041E\u0412\u0410"
+    4300014: "\u041F\u0410\u0422\u041B\u042B"
+    4300016: "\u041D\u041E\u0413\u0410_\u041B\u0415\u0412\u0410\u042F"
+    4300018: "\u041D\u041E\u0413\u0410_\u041F\u0420\u0410\u0412\u0410\u042F"
+    4300020: "\u0420\u0423\u041A\u0424_\u041F\u0420\u0410\u0412\u0410\u042F"
+    4300022: "\u0420\u0423\u041A\u0424_\u041F\u0420\u0410\u0412\u0410\u042F_003"
+    4300024: Cube
+    4300026: Cube_001
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Cube_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
